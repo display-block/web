@@ -1,0 +1,316 @@
+*  /*所有的样式属性设置了*/
+{
+	margin: 0px;
+	padding: 0px;
+	font-weight: normal;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+img   /*所有的图片都设置了border为0*/
+{
+	vertical-align: middle;
+	border: 0px;
+}
+.container   /*最大的容器*/
+{
+	width: 100%;
+	height: 100%;
+}
+.title h1  /*标题的大小 和 居中 */
+{
+	font-size: 42px;
+	font-weight: normal;
+	text-align: center;
+	padding: 95px 0px 50px 0px;
+}
+.title p  /*p标签的字体大小和居中*/
+{
+	font-size: 16px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.body
+{
+	overflow: hidden;
+	color: #FFF;
+	background-color: #282828;
+}
+.img-one
+{
+	width: 50%;
+	float: left;
+}
+.body-right
+{
+	width: 50%;
+	float: right;
+}
+.header
+{
+	padding: 30px 0px 0px 40px;
+}
+.header h2
+{
+	font-size: 30px;
+}
+.header img
+{
+	margin: -30px 10px 0px 0px;
+}
+.header p
+{
+	padding-top: 10px;
+}
+.body-left
+{
+	float: left;
+}
+.header-one
+{
+	text-align: right;
+}
+.header-one h2
+{
+	font-size: 30px;
+	padding: 30px 0px 0px 545px;
+}
+.header-one img
+{
+	margin: -30px 10px 0px 0px;
+}
+.header-one p
+{
+	padding-top: 10px;
+}
+.img-two
+{
+	width: 50%;
+	float: right;
+}
+.img-three
+{
+	width: 50%;
+	float: left;
+}
+.body-top
+{
+	float: right;
+}
+.header-two
+{
+	padding: 30px 285px 0px 0px;
+}
+.header-two h2
+{
+	font-size: 30px;
+}
+.header-two img
+{
+	margin: -30px 10px 0px 0px;
+}
+.header-two p
+{
+	padding-top: 10px;
+}
+.body-footer
+{
+	float: left;
+}
+.header-three
+{
+	float: left;
+	text-align: right;
+	padding: 30px 0px 0px 290px;
+}
+.header-three h2
+{
+	font-size: 30px;
+}
+.header-three img
+{
+	margin: -30px 10px 0px 0px;
+}
+.header-three p
+{
+	padding-top: 10px;
+}
+.img-four
+{
+	width: 50%;
+	float: right;
+}
+.wrap
+{
+	margin: 0 auto;
+	width: 990px;
+	height: 1790px;
+	/*border: 1px solid red;*/
+}
+.wrap h1
+{
+	font-size: 42px;
+	font-weight: normal;
+	padding: 95px 0px 50px 0px;
+	text-align: center;
+}
+.wrap p
+{
+	font-size: 16px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.hot>div
+{
+	width: 302px;
+    margin: 0 42px 0 0;
+}
+.content-one>div
+{
+	float: left;
+}
+.hot .hotbg
+{
+	width: 302px;
+	height: 523px;
+	background: url(../img/02.png) no-repeat center bottom;
+	position: relative;
+}
+.hot .hotbg img
+{
+	position: absolute;
+	top: 81px;
+	left: 44px;
+}
+.hot h5
+{
+	font-size: 18px;
+	text-align: center;
+	font-weight: normal;
+}
+.hot p
+{
+	font-size: 16px;
+	width: 220px;
+	line-height: 30px;
+	margin: 20px auto 0;
+	padding: 0px;
+	text-align: left;
+}
+.content-one .r0
+{
+	margin-right: 0px;
+}
+.content-one .r1
+{
+	margin-right: 0px;
+}
+.footer h1
+{
+	font-size: 42px;
+	text-align: center;
+	font-weight: normal;
+	padding: 95px 0px 50px 0px;
+}
+.divimg img
+{
+	display: block;
+	margin: 30px auto;
+}
+.wrap1
+{
+	margin: 0 auto;
+	width: 990px;
+	height: 1080px;
+}
+.wrap1 h1
+{
+	font-size: 42px;
+	font-weight: normal;
+	padding: 95px 0px 50px 0px;
+	/*margin-top: 50px;*/
+	text-align: center;
+}
+.wrap1 p
+{
+	font-size: 16px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.bggray h1
+{
+	font-size: 42px;
+	text-align: center;
+	font-weight: normal;
+	padding: 95px 0px 50px 0px;
+}
+.clear
+{
+	display: block;
+	zoom: 1;
+	clear: both;
+}
+.st li
+{
+	width: 237px;
+	margin-right: 73px;
+	float: left;
+	margin-bottom: 60px;
+}
+.st
+{
+	padding:0px 0px 0px  50px;
+}
+.st h3
+{
+	font-size: 23px;
+	font-weight: normal;
+	margin-top: 14px;
+	padding-top: 0px;
+}
+.st h3 span
+{
+	font-size: 14px;
+}
+.st h4
+{
+	font-size: 14px;
+    line-height: 26px;
+    margin: 10px 0;
+}
+.st h5
+{
+	font-size: 20px;
+}
+.female
+{
+	background: url(../img/007.jpg) no-repeat center top;
+	height: 824px;
+}
+.female h1
+{
+	color: #ffffff;
+    padding-top: 260px;
+    line-height: 60px;
+    margin-bottom: 36px;
+}
+.female h1
+{
+	font-size: 42px;
+    text-align: center;
+    padding: 95px 0 50px 0;
+}
+.female p
+{
+	width: 630px;
+    margin: 0 auto;
+    line-height: 32px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 56px;
+}
+.female p
+{
+	font-size: 16px;
+}
